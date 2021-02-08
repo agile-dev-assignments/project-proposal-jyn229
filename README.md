@@ -14,6 +14,7 @@ Users can create an account and connect to Twitter/Instagram
 - An account will allow the user to list photocards up for sale/trade
 - Additionally allows the user to keep track of which photocards are in their collection
 - Also allow users to keep a wishlist of photocards they want
+
 Users can navigate to the page of a certain photocard
 - The page will have the image of the photocard and infomation about which album the photocard is obtained from
 - It will also have a graph that illustrates the price over time
